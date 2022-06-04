@@ -13,5 +13,7 @@ pip install re
 ```
 - 运行
 切换至程序根目录
-`python3 main.py`  
-运行
+`python3 main.py`运行 
+- 图片保存位置
+
+图片保存在同级目录下的images目录中，以天为单位保存
